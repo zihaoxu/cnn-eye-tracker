@@ -1,0 +1,3 @@
+Input:D:\FramesDataset\P_01\1491423217564_18_-study-benefits_of_running_writing.webm_frames\frame_00000000_00000000.png
+Input full path:D:\FramesDataset\P_01\1491423217564_18_-study-benefits_of_running_writing.webm_frames\frame_00000000_00000000.png
+Camera parameters:500,500,320,240

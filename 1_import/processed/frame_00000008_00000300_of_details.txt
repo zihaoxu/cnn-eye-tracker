@@ -1,0 +1,10 @@
+Input:D:\FramesDataset\P_01\1491423217564_18_-study-benefits_of_running_writing.webm_frames\frame_00000008_00000300.png
+Input full path:D:\FramesDataset\P_01\1491423217564_18_-study-benefits_of_running_writing.webm_frames\frame_00000008_00000300.png
+Camera parameters:500,500,320,240
+Output csv:frame_00000008_00000300.csv
+Gaze: 1
+AUs: 0
+Landmarks 2D: 1
+Landmarks 3D: 0
+Pose: 1
+Shape parameters: 0
