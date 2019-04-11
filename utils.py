@@ -27,8 +27,8 @@ sns.set_style("whitegrid")
 print("GPU availbility:", K.tensorflow_backend._get_available_gpus())
 
 # Global paths
-IMG_PATH = "D:\\FramesDataset\\"
-ROOT = "D:\\david_xu_thesis\\"
+IMG_PATH = "<your_own_img_path>"
+ROOT = "<your_own_root_path>"
 MODEL_PATH = ROOT + "4_models\\"
 EXPORT_PATH = ROOT + "0_data_lan\\export\\"
 DATASET_PATH = ROOT + "0_data_lan\\datasets\\"
