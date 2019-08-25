@@ -3,7 +3,7 @@
 ## Description
 This repository hosts my Math senior thesis on the topic of Appearanced-based Eye-tracking using Convolutional Neural Networks. For all technical details and implementation, please refer to my thesis linked below.  
 To see the eye-tracker in practice: https://www.youtube.com/watch?v=hi36JKSD9-8  
-To see the full thesis:  
+To see the full thesis: shorturl.at/nDHV9  
 To see the thesis presentation: https://www.youtube.com/watch?v=g_ISUAHx2YA
 
 ## Dependencies  
