@@ -1,9 +1,10 @@
 # Appearanced-based Eye-tracking using Convolutional Neural Networks
 
 ## Description
-This repository hosts my Math senior thesis on the topic of Appearanced-based Eye-tracking using Convolutional Neural Networks. For all technical details and implementation, please refer to my thesis linked below.    
+This repository hosts my Math senior thesis on the topic of Appearanced-based Eye-tracking using Convolutional Neural Networks. For all technical details and implementation, please refer to my thesis linked below.  
+To see the eye-tracker in practice: https://www.youtube.com/watch?v=hi36JKSD9-8  
 To see the full thesis:  
-To see the thesis presentation:  
+To see the thesis presentation: https://www.youtube.com/watch?v=g_ISUAHx2YA
 
 ## Dependencies  
 All the required Python packages are listed in the top portion of the `utils.py` file. The image pre-precessing code also depends on an open-source software called OpenFace, which is available here: https://cmusatyalab.github.io/openface/
